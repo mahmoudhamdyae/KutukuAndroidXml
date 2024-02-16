@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainTextViewStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:fontFamily">@font/playfair_display</item>
+        <item name="android:textSize">@dimen/text_primary_size</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+
+    <style name="SecondaryTextViewStyle" parent="Widget.MaterialComponents.TextView">
+        <item name="android:fontFamily">@font/playfair_display</item>
+        <item name="android:textSize">@dimen/text_secondary_size</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+    </style>
+</resources>

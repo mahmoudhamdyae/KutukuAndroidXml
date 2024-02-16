@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragments_margin">8dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="text_primary_size">24sp</dimen>
+    <dimen name="text_secondary_size">16sp</dimen>
+
+</resources>
